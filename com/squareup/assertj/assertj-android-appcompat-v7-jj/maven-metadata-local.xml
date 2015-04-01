@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.squareup.assertj</groupId>
-  <artifactId>assertj-android-appcompat-v7-justjar</artifactId>
+  <artifactId>assertj-android-appcompat-v7-jj</artifactId>
   <versioning>
     <release>1.0.0</release>
     <versions>
